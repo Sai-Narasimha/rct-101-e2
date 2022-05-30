@@ -48,27 +48,24 @@
       "price": "10.25"
     },
     {
-      "title": "A",
-      "category": "shirt",
-      "gender": "female",
-      "price": "100",
-      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "nani",
+      "products": "",
+      "gender": "",
+      "price": "200",
       "id": 7
     },
     {
-      "title": "A",
-      "category": "shirt",
-      "gender": "male",
-      "price": "100",
-      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "mahi",
+      "category": "",
+      "gender": "",
+      "price": "2200",
       "id": 8
     },
     {
-      "category": "shirt",
-      "title": "ABCD",
-      "gender": "male",
-      "price": "300",
-      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "mahi",
+      "category": "",
+      "gender": "",
+      "price": "2200",
       "id": 9
     }
   ]
